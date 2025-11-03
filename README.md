@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm currently a PhD student at the University of Manchester's Department of Mathematics. I am researching modelling the biomechanical networks of the lung.
+
+🔭 I’m currently working on ...  
+- Simulating the behaviour of a 2D tessellation of alveoli under a ventilation-vertex model  
+- Working out scaling this model to 3D alveoli
+
+📫 How to reach me: [Email me!](molly.reade@postgrad.ac.uk)  
+😄 Pronouns: she/her
+
 <!--
 **MollyReade/MollyReade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
